@@ -27,8 +27,8 @@ headers: {
 try {
 const {data} = await axios.get(url, config);
 dispatch({ type: GREETINGS, greetings: data[0] });
-console.log("data");
+
 } catch (err) {
-console.log(err);
+ 
 }
 }); 
