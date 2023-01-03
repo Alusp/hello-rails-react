@@ -5430,3 +5430,84 @@ Processing by Api::V1::GreetingController#index as HTML
 Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.6ms | Allocations: 1134)
 
 
+Started GET "/" for ::1 at 2023-01-03 18:58:25 +0200
+  [1m[36mActiveRecord::SchemaMigration Pluck (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by RootController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering root/index.html.erb within layouts/application
+  Rendered root/index.html.erb within layouts/application (Duration: 11.6ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 101.2ms | Allocations: 22725)
+Completed 200 OK in 159ms (Views: 154.5ms | ActiveRecord: 0.0ms | Allocations: 26476)
+
+
+Started GET "/api/v1/greeting" for ::1 at 2023-01-03 18:58:26 +0200
+Processing by Api::V1::GreetingController#index as HTML
+  [1m[36mGreeting Load (0.6ms)[0m  [1m[34mSELECT "greetings".* FROM "greetings"[0m
+  ↳ app/controllers/api/v1/greeting_controller.rb:6:in `index'
+Completed 200 OK in 19ms (Views: 1.9ms | ActiveRecord: 6.2ms | Allocations: 6665)
+
+
+Started GET "/" for ::1 at 2023-01-03 18:58:28 +0200
+Processing by RootController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering root/index.html.erb within layouts/application
+  Rendered root/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 9)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 3143)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4251)
+
+
+Started GET "/api/v1/greeting" for ::1 at 2023-01-03 18:58:28 +0200
+Processing by Api::V1::GreetingController#index as HTML
+  [1m[36mGreeting Load (0.3ms)[0m  [1m[34mSELECT "greetings".* FROM "greetings"[0m
+  ↳ app/controllers/api/v1/greeting_controller.rb:6:in `index'
+Completed 200 OK in 4ms (Views: 1.4ms | ActiveRecord: 0.3ms | Allocations: 2000)
+
+
+Started GET "/" for ::1 at 2023-01-03 18:58:29 +0200
+Processing by RootController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering root/index.html.erb within layouts/application
+  Rendered root/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2939)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 4005)
+
+
+Started GET "/api/v1/greeting" for ::1 at 2023-01-03 18:58:29 +0200
+Processing by Api::V1::GreetingController#index as HTML
+  [1m[36mGreeting Load (0.4ms)[0m  [1m[34mSELECT "greetings".* FROM "greetings"[0m
+  ↳ app/controllers/api/v1/greeting_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.4ms | Allocations: 1926)
+
+
+Started GET "/" for ::1 at 2023-01-03 18:58:29 +0200
+Processing by RootController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering root/index.html.erb within layouts/application
+  Rendered root/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | Allocations: 2949)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4019)
+
+
+Started GET "/api/v1/greeting" for ::1 at 2023-01-03 18:58:29 +0200
+Processing by Api::V1::GreetingController#index as HTML
+  [1m[36mGreeting Load (0.5ms)[0m  [1m[34mSELECT "greetings".* FROM "greetings"[0m
+  ↳ app/controllers/api/v1/greeting_controller.rb:6:in `index'
+Completed 200 OK in 5ms (Views: 1.3ms | ActiveRecord: 0.5ms | Allocations: 1937)
+
+
+Started GET "/" for ::1 at 2023-01-03 18:58:30 +0200
+Processing by RootController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering root/index.html.erb within layouts/application
+  Rendered root/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 14.0ms | Allocations: 2970)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 4038)
+
+
+Started GET "/api/v1/greeting" for ::1 at 2023-01-03 18:58:30 +0200
+Processing by Api::V1::GreetingController#index as HTML
+  [1m[36mGreeting Load (0.3ms)[0m  [1m[34mSELECT "greetings".* FROM "greetings"[0m
+  ↳ app/controllers/api/v1/greeting_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.3ms | Allocations: 1926)
+
+
