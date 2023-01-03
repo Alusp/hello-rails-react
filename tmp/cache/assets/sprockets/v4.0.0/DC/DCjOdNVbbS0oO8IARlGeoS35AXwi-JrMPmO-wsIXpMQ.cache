@@ -1,0 +1,73 @@
+{:uriI"‹file:///home/alusine/Desktop/Microverse/Module%206/helloRailsReact/forepo/hello-rails-react/app/assets/builds/application.js.LICENSE.txt?type=text/plain&id=e05b12d4e3045451afa9a2f6752a3e74058f665dd4f2f06517f3087a47e6db8e:ET:load_pathI"app/assets/builds;T:filenameI"1app/assets/builds/application.js.LICENSE.txt;T:	nameI"application.js.LICENSE;T:logical_pathI"application.js.LICENSE.txt;T:content_typeI"text/plain;T:sourceI"—/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * use-sync-external-store-shim.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * use-sync-external-store-shim/with-selector.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+;T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"èfile-digest:///home/alusine/Desktop/Microverse/Module%206/helloRailsReact/forepo/hello-rails-react/app/assets/builds/application.js.LICENSE.txt;TTF:charsetI"
+utf-8;F:digest"%¨y€˘‡£S∫|së«i=èH€vª¨∑.a3¯’Ω˝r√É:lengthi—:environment_versionI"1.0;T:dependencies_digest"%£M∏¡ã'î¸–ﬂ›jÌ”˛î”í«Ï˚6ÒÓ#∞§à:idI"Ee05b12d4e3045451afa9a2f6752a3e74058f665dd4f2f06517f3087a47e6db8e;F
