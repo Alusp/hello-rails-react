@@ -76,7 +76,7 @@ Hello Rails with React App is a mobile web application where you can manage you 
 
 > The following are the key feature:
 
-- **[Displays dynamic greetings]**
+- **[Displays random greetings]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
