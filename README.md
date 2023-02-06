@@ -35,7 +35,7 @@
 
 # Hello Rails with React
 
-Hello Rails with React App is a mobile web application where you can manage you get dynamic greetings from the back end api to the front end react App.
+> Hello-Rails with React App is a mobile web application where you can manage you get dynamic greetings from the back-end API to the front-end react App.
 
 
 
